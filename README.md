@@ -2,7 +2,7 @@
 
 ***
 
-# datanights
+# #DataNights
 
 Código estructurado para las #DataNights de VISceral
 
@@ -28,4 +28,5 @@ Código estructurado para las #DataNights de VISceral
     ├── modelos         <- Código fuente para tu propio modelo.
     └── visualizaciones <- Scripts para la visualización de sus resultados, por ejemplo, matplotlib, ggplot2, bokeh, altair.
 ```
-
+# Figura final
+![figura final](reportes/figuras/bokeh_plot.png)
