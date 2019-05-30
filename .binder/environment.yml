@@ -1,0 +1,11 @@
+name: datanights
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - altair
+  - pip
+  - pip:
+    - arrow
+    - xlrd
+    - pyxlsb
