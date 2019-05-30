@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - pandas
+  - bokeh
   - altair
   - pip
   - pip:
